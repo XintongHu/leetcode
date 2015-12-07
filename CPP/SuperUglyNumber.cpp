@@ -8,7 +8,6 @@ public:
                return s1.first > s2.first;
            }
         };
-        
         vector<pair<int, int> > h;
         unordered_map<int, int> index;
         vector<int> ans;
